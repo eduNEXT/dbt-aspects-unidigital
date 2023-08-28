@@ -1,4 +1,7 @@
-Welcome to your new dbt project!
+# Welcome to dbt-aspects-unidigital!
+
+This is a DBT package for Aspects learners analytics that cover the uses cases
+of the Unidigital project.
 
 ### Using the starter project
 
